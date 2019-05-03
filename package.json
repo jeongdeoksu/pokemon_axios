@@ -1,0 +1,25 @@
+{
+  "name": "pokemon_axios",
+  "version": "1.0.0",
+  "description": "Using Axios to Pull Data from a REST API (Pokéapi)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeongdeoksu/pokemon_axios.git"
+  },
+  "keywords": [
+    "axios"
+  ],
+  "author": "jeongdeoksu@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeongdeoksu/pokemon_axios/issues"
+  },
+  "homepage": "https://github.com/jeongdeoksu/pokemon_axios#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
